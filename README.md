@@ -1,16 +1,13 @@
-### Hi there 👋
+## Olá! Meu nome é Gabriel Alexandre, e seja bem vindo(a) ao meu perfil! 👋
+Sou um estudante de desenvolvimento Front-end, estou aprendendo sobre tudo que seja relacionado as linguagens de marcação e programação e tentando evoluir a cada dia!
 
-<!--
-**Scoorpioon/Scoorpioon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aprendendo e aperfeiçoando:
+- HTML
+- CSS
+- React
+- NextJS
+- JavaScript
+- Python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo através de:
+- 📬 gabrielalexandre1337@gmail.com
