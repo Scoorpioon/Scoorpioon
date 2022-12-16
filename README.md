@@ -15,4 +15,4 @@ Sou um estudante de desenvolvimento Front-end, estou aprendendo sobre tudo que s
 
 ### Você pode entrar em contato comigo através de:
 - 📬 gabrielalexandre1337@gmail.com
-- 🇱 https://www.linkedin.com/in/gabriel-alexandre-82355723b/
+- 🏢 https://www.linkedin.com/in/gabriel-alexandre-82355723b/
