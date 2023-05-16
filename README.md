@@ -5,11 +5,8 @@ Sou um estudante de desenvolvimento Front-end, estou aprendendo sobre tudo que s
 - HTML
 - CSS
 - React
-- NextJS
+- NodeJS
 - JavaScript
-- TypeScript
-- ECMAScript
-- PHP
 - Python
 - Banco de dados
 
