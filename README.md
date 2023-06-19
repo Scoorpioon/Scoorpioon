@@ -1,5 +1,5 @@
 ## Olá! Meu nome é Gabriel Alexandre, e seja bem vindo(a) ao meu perfil! 👋
-Sou um estudante de desenvolvimento Full-Stack, estou aprendendo sobre tudo que seja relacionado as linguagens de marcação e programação e tentando evoluir a cada dia!
+Sou um estudante de desenvolvimento Full-Stack, estou aprendendo sobre tudo que seja relacionado as linguagens de marcação e programação e tentando evoluir a cada dia, seja aprendendo sobre uma certa função até uma nova linguagem de programação!
 
 ### Aprendendo e aperfeiçoando:
 - HTML
