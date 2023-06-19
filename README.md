@@ -8,7 +8,7 @@ Sou um estudante de desenvolvimento Front-end, estou aprendendo sobre tudo que s
 - NodeJS
 - JavaScript
 - Python
-- Banco de dados
+- Banco de dados (MySQL, MongoDB)
 
 ### Você pode entrar em contato comigo através de:
 - 📬 gabrielalexandre1337@gmail.com
