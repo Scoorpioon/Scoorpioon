@@ -68,9 +68,9 @@
 ```javascript
 const Rotina = (humorDoProgramador) => {
     if(humorDoProgramador === "Animado") {
-        return programar!;
+        return programar();
     } else if(humorDoProgramador === "Desanimado") {
-        return tomarMaisCafé;
+        return tomarMaisCafé();
         } 
 }
 
