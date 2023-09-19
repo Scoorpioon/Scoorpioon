@@ -2,7 +2,7 @@
 Sou um estudante de desenvolvimento Full-Stack, estou aprendendo sobre tudo que seja relacionado as linguagens de marcação e programação e tentando evoluir a cada dia, seja aprendendo sobre uma certa função até uma nova linguagem de programação!
 
 <div align="center">
-    ### Aprendendo e Aperfeiçoando
+    **Aprendendo e aperfeiçoando:**
 </div>
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> 
