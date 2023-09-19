@@ -1,4 +1,4 @@
-## Olá! Meu nome é Gabriel Alexandre, e seja bem vindo(a) ao meu perfil! 👋
+## Olá! Meu nome é Gabriel Alexandre, e seja bem vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 <p align="center">Sou um estudante de desenvolvimento Full-Stack, estou aprendendo sobre tudo que seja relacionado as linguagens de marcação e programação e tentando evoluir a cada dia, seja aprendendo sobre uma certa função até uma nova linguagem de programação!</p>
 <div align="center">
     <h3>Aprendendo e aperfeiçoando:</h3>
@@ -49,11 +49,12 @@
           alt="git"/>
     </a>
 </p>
-<div align="center">
-    <h3>Status do meu Github:</h3>
-</div>
-    <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Scoorpioon&show_icons=true&locale=en&layout=compact" alt="Scoorpioon" /></div>
-    <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=Scoorpioon&show_icons=true&locale=en" alt="Scoorpioon" width="410" /></div>
+<p align="center">
+<a href="https://github.com/Scoorpioon">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Scoorpioon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Scoorpioon&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 
 ### Você pode entrar em contato comigo através de:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-alexandre-82355723b/)
