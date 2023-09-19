@@ -1,6 +1,5 @@
 ## Olá! Meu nome é Gabriel Alexandre, e seja bem vindo(a) ao meu perfil! 👋
 <p align="center">Sou um estudante de desenvolvimento Full-Stack, estou aprendendo sobre tudo que seja relacionado as linguagens de marcação e programação e tentando evoluir a cada dia, seja aprendendo sobre uma certa função até uma nova linguagem de programação!</p>
-<br>
 <div align="center">
     <h3>Aprendendo e aperfeiçoando:</h3>
 </div>
@@ -50,12 +49,11 @@
           alt="git"/>
     </a>
 </p>
-<br>
 <div align="center">
-    <h3>Status do meu Github</h3>
+    <h3>Status do meu Github:</h3>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Scoorpioon&show_icons=true&locale=en&layout=compact" alt="Scoorpioon" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Scoorpioon&show_icons=true&locale=en" alt="Scoorpioon" width="410" /></p>
+    <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Scoorpioon&show_icons=true&locale=en&layout=compact" alt="Scoorpioon" /></div>
+    <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=Scoorpioon&show_icons=true&locale=en" alt="Scoorpioon" width="410" /></div>
 
 ### Você pode entrar em contato comigo através de:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-alexandre-82355723b/)
