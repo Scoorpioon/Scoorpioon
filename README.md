@@ -71,6 +71,8 @@ const Rotina = (humorDoProgramador) => {
         return programar!;
     } else if(humorDoProgramador === "Desanimado") {
         return tomarMaisCafé;
-        }    
+        } 
 }
+
+// Obrigado por visitar o meu perfil!
 ```
