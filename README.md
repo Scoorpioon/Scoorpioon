@@ -35,6 +35,9 @@ Sou um estudante de desenvolvimento Full-Stack, estou aprendendo sobre tudo que 
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
 </a>
+<a href="https://www.mysql.com/" target="_blank"> 
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</a>
 <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
