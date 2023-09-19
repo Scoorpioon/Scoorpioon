@@ -50,7 +50,7 @@
     </a>
 </p>
 <p align="center">
-    <h3>Meus status do Github</h3>
+    <h3 align="center">Meus status do Github:</h3>
 <a href="https://github.com/Scoorpioon">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Scoorpioon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Scoorpioon&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/>
