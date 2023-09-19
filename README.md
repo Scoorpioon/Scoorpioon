@@ -1,4 +1,4 @@
-## Olá! Meu nome é Gabriel Alexandre, e seja bem vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+## Olá! Meu nome é Gabriel Alexandre, e seja bem vindo(a) ao meu perfil! 👋>
 <p align="center">Sou um estudante de desenvolvimento Full-Stack, estou aprendendo sobre tudo que seja relacionado as linguagens de marcação e programação e tentando evoluir a cada dia, seja aprendendo sobre uma certa função até uma nova linguagem de programação!</p>
 <div align="center">
     <h3>Aprendendo e aperfeiçoando:</h3>
@@ -50,6 +50,7 @@
     </a>
 </p>
 <p align="center">
+    <h3>Meus status do Github</h3>
 <a href="https://github.com/Scoorpioon">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Scoorpioon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Scoorpioon&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/>
