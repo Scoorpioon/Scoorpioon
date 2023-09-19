@@ -64,3 +64,13 @@
 ### Você pode entrar em contato comigo através de:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-alexandre-82355723b/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielalexandre1337@gmail.com)
+
+```javascript
+const Rotina = (humorDoProgramador) => {
+    if(humorDoProgramador === "Animado") {
+        return programar!;
+    } else if(humorDoProgramador === "Desanimado") {
+        return tomarMaisCafé;
+        }    
+}
+```
