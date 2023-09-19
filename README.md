@@ -1,7 +1,9 @@
 ## Olá! Meu nome é Gabriel Alexandre, e seja bem vindo(a) ao meu perfil! 👋
 Sou um estudante de desenvolvimento Full-Stack, estou aprendendo sobre tudo que seja relacionado as linguagens de marcação e programação e tentando evoluir a cada dia, seja aprendendo sobre uma certa função até uma nova linguagem de programação!
 
-<h2 align="center">Aprendendo e aperfeiçoando:</h2>
+<div align="center">
+    ### Aprendendo e Aperfeiçoando
+</div>
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> 
         <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
