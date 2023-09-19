@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Gabriel Alexandre, e seja bem vindo(a) ao meu perfil! 👋
 Sou um estudante de desenvolvimento Full-Stack, estou aprendendo sobre tudo que seja relacionado as linguagens de marcação e programação e tentando evoluir a cada dia, seja aprendendo sobre uma certa função até uma nova linguagem de programação!
 
-### Aprendendo e aperfeiçoando:
+<h2 align="center">Aprendendo e aperfeiçoando:</h2>
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> 
         <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
@@ -49,7 +49,7 @@ Sou um estudante de desenvolvimento Full-Stack, estou aprendendo sobre tudo que 
     </a>
 </p>
 
-### Status do meu Github
+<h2 align="center">Status do meu Github:</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Scoorpioon&show_icons=true&locale=en&layout=compact" alt="Scoorpioon" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Scoorpioon&show_icons=true&locale=en" alt="Scoorpioon" width="410" /></p>
 
