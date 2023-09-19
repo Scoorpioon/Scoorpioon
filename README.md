@@ -49,14 +49,6 @@ Sou um estudante de desenvolvimento Full-Stack, estou aprendendo sobre tudo que 
     </a>
 </p>
 
-- C#
-- ReactJS
-- Express
-- JavaScript
-- PHP
-- Python
-- Banco de dados (MySQL, MongoDB, PotsgreSQL)
-
 ### Status do meu Github
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Scoorpioon&show_icons=true&locale=en&layout=compact" alt="Scoorpioon" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Scoorpioon&show_icons=true&locale=en" alt="Scoorpioon" width="410" /></p>
