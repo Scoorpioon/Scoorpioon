@@ -19,6 +19,10 @@
     <a href="https://www.php.net/" target="_blank">
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     </a>
+    <a href="https://www.python.org/" target="_blank"> 
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+          alt="python"/>
+    </a>
     <a href="https://reactjs.org/" target="_blank"> 
         <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
           alt="react"/> 
