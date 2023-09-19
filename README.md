@@ -10,6 +10,10 @@ Sou um estudante de desenvolvimento Full-Stack, estou aprendendo sobre tudo que 
 - Python
 - Banco de dados (MySQL, MongoDB, PotsgreSQL)
 
+### Status do meu Github
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+
 ### Você pode entrar em contato comigo através de:
 <a target="_blank" href="https://www.linkedin.com/in/gabriel-alexandre-82355723b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
