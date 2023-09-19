@@ -13,6 +13,5 @@ Sou um estudante de desenvolvimento Full-Stack, estou aprendendo sobre tudo que 
 ### Você pode entrar em contato comigo através de:
 <a target="_blank" href="https://www.linkedin.com/in/gabriel-alexandre-82355723b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="mailto:gabrielalexandre1337@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:gabrielalexandre1337@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
