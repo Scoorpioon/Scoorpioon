@@ -19,6 +19,12 @@
     <a href="https://www.php.net/" target="_blank">
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     </a>
+    <a href="https://www.w3schools.com/cpp/">
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)" />
+    </a>
+    <a href="https://www.w3schools.com/cs/">
+        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white") />
+    </a>
     <a href="https://www.python.org/" target="_blank"> 
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
           alt="python"/>
