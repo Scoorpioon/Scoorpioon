@@ -39,9 +39,6 @@
     <a href="https://redux.js.org" target="_blank"> 
         <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
     </a> 
-    <a href="https://jquery.com/" target="_blank">
-        <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
-    </a>
     <a href="https://nodejs.org" target="_blank"> 
         <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
           alt="nodejs"/> 
