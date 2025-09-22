@@ -1,5 +1,5 @@
 ## Olá! Meu nome é Gabriel Alexandre, e seja bem vindo(a) ao meu perfil! 👋
-<p align="center">Sou formado em Análise e Desenvolvimento de sistemas, estou aprimorando meus conhecimentos em desenvolvimento Full-Stack e evoluindo a cada dia, seja aprendendo sobre uma certa função até uma nova linguagem de programação!</p>
+<p align="center">Sou formado em Análise e Desenvolvimento de sistemas, estou aprimorando meus conhecimentos em desenvolvimento Full-Stack, redes de computadores e infrasetrutura e evoluindo a cada dia, seja aprendendo sobre uma certa função até uma nova linguagem de programação!</p>
 <div align="center">
     <h3>Aprendendo e aperfeiçoando:</h3>
 </div>
